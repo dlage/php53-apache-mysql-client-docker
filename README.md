@@ -14,7 +14,7 @@ services:
     ports:
       - "3306:3306"
   php:
-    image: 
+    image: dlage/php53-apache-mysql-client
     volumes:
       - ./path/to/phpapp:/var/www/html
     links:
