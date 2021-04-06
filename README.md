@@ -1,5 +1,5 @@
 # php53-apache-mysql-client-docker
-Docker image with Ubuntu 20.04 with php5.3, apache2 and php5-mysql for discontinued projects that need mysql_connect
+Docker image with: Ubuntu 20.04; apache2; php5.3; php5-mysql - for discontinued projects that need, e.g., mysql_connect
 
 Example `docker-compose.yml`
 ```
